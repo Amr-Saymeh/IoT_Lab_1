@@ -1,5 +1,7 @@
 # IoT Lab 1
 
+### This is a small lab project for the course: IoT. Provided for Dr. Momen
+
 ## ThingSpeak public URL:
 https://thingspeak.mathworks.com/channels/3551769
 
